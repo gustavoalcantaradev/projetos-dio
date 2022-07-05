@@ -1,1 +1,1 @@
-Desafio de criar um repositório no GitHub.
+Primeiro desafio: Criar um repositório no GitHub.
