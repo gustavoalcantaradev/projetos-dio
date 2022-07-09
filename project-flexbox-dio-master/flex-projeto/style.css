@@ -106,3 +106,7 @@ header .menu{
     margin-bottom: 10px;
     width: 90%;
 }
+
+#quem-somos img{
+    min-width: 420px;
+}
